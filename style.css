@@ -1,0 +1,29 @@
+.heading{
+    background-color: aquamarine;
+    font-style: italic;
+    color: blanchedalmond;
+    font-size: 30px;
+    width: 80%;
+    margin: 0px;
+    box-shadow: 5px 10px 8px olivedrab;
+}
+
+.info {
+    font-size: 15px;
+    color: darkblue
+}
+
+.crf {
+    position: fixed;
+    color: aliceblue;
+    bottom: 0;
+    width: 100%;
+    background-color: coral;
+    line-height: 3;
+    text-align: center;
+}
+
+.body{
+    background-image: url("misdc.png");
+    background-size: cover;
+}
